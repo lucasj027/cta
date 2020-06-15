@@ -1,6 +1,6 @@
 # Aula 04/06 [Avaliação Individual]
 
-###Instruções
+### Instruções
 Vamos criar mais uma página call to action (prometo que é a última!). Vocês terão liberdade para escolher qualquer produto, mas deverão usar o tema que foi sorteado para você!!! Estarei online no discord para tirar dúvidas. 
 
 Novamente a página deve ser disponibilizada pelo gitpages, e vocês vão me enviar apenas o link do gitpages. 
